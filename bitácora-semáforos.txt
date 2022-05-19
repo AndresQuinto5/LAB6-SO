@@ -1,0 +1,421 @@
+Iniciando procesos
+Iniciando pthread: 15415
+Thread 15415 - iteración: 0
+15415 semáforo abierto.
+Thread 15415 - consumiendo recursos
+Iniciando pthread: 15416
+Thread 15416 - iteración: 0
+15416 semáforo abierto.
+Thread 15416 - consumiendo recursos
+Iniciando pthread: 15417
+Thread 15417 - iteración: 0
+15417 semáforo abierto.
+Thread 15417 - consumiendo recursos
+Iniciando pthread: 15414
+Thread 15414 - iteración: 0
+15414 semáforo abierto.
+Thread 15414 - consumiendo recursos
+Iniciando pthread: 15418
+Thread 15418 - iteración: 0
+15418 semáforo abierto.
+Thread 15418 - consumiendo recursos
+Iniciando pthread: 15419
+Thread 15419 - iteración: 0
+15419 semáforo abierto.
+Thread 15419 - consumiendo recursos
+Iniciando pthread: 15420
+Thread 15420 - iteración: 0
+15420 semáforo abierto.
+Thread 15420 - consumiendo recursos
+Iniciando pthread: 15421
+Thread 15421 - iteración: 0
+15421 semáforo abierto.
+Thread 15421 - consumiendo recursos
+Iniciando pthread: 15422
+Thread 15422 - iteración: 0
+15422 semáforo abierto.
+Thread 15422 - consumiendo recursos
+Iniciando pthread: 15423
+Thread 15423 - iteración: 0
+15423 semáforo abierto.
+Thread 15423 - consumiendo recursos
+15418 recurso usado.
+Thread 15418 - liberando recursos
+Thread 15418 - iteración: 1
+15418 semáforo abierto.
+Thread 15418 - consumiendo recursos
+15414 recurso usado.
+Thread 15414 - liberando recursos
+Thread 15414 - iteración: 1
+15414 semáforo abierto.
+Thread 15414 - consumiendo recursos
+Iniciando pthread: 15424
+Thread 15424 - iteración: 0
+15424 semáforo abierto.
+Iniciando pthread: 15425
+Thread 15425 - iteración: 0
+15425 semáforo abierto.
+Iniciando pthread: 15426
+Thread 15426 - iteración: 0
+15426 semáforo abierto.
+Iniciando pthread: 15427
+Thread 15427 - iteración: 0
+15427 semáforo abierto.
+Iniciando pthread: 15428
+Thread 15428 - iteración: 0
+15428 semáforo abierto.
+Iniciando pthread: 15429
+Thread 15429 - iteración: 0
+15429 semáforo abierto.
+15416 recurso usado.
+15421 recurso usado.
+Thread 15421 - liberando recursos
+Thread 15421 - iteración: 1
+Thread 15416 - liberando recursos
+Thread 15416 - iteración: 1
+15416 semáforo abierto.
+Thread 15416 - consumiendo recursos
+15418 recurso usado.
+Thread 15418 - liberando recursos
+Thread 15418 - iteración: 2
+15418 semáforo abierto.
+Thread 15418 - consumiendo recursos
+Iniciando pthread: 15430
+Thread 15430 - iteración: 0
+15430 semáforo abierto.
+Thread 15430 - consumiendo recursos
+15415 recurso usado.
+Thread 15415 - liberando recursos
+Thread 15415 - iteración: 1
+15415 semáforo abierto.
+Thread 15415 - consumiendo recursos
+15417 recurso usado.
+Thread 15424 - consumiendo recursos
+Thread 15417 - liberando recursos
+Thread 15417 - iteración: 1
+15417 semáforo abierto.
+15421 semáforo abierto.
+Iniciando pthread: 15432
+Thread 15432 - iteración: 0
+15432 semáforo abierto.
+Iniciando pthread: 15431
+Thread 15431 - iteración: 0
+15431 semáforo abierto.
+Iniciando pthread: 15433
+Thread 15433 - iteración: 0
+15433 semáforo abierto.
+15419 recurso usado.
+Thread 15426 - consumiendo recursos
+Thread 15419 - liberando recursos
+Thread 15419 - iteración: 1
+15419 semáforo abierto.
+15423 recurso usado.
+Thread 15428 - consumiendo recursos
+Thread 15423 - liberando recursos
+Thread 15423 - iteración: 1
+15423 semáforo abierto.
+15420 recurso usado.
+Thread 15420 - liberando recursos
+Thread 15420 - iteración: 1
+15420 semáforo abierto.
+Thread 15420 - consumiendo recursos
+15430 recurso usado.
+Thread 15430 - liberando recursos
+Thread 15430 - iteración: 1
+15430 semáforo abierto.
+Thread 15430 - consumiendo recursos
+15428 recurso usado.
+Thread 15431 - consumiendo recursos
+Thread 15428 - liberando recursos
+Thread 15428 - iteración: 1
+15428 semáforo abierto.
+15422 recurso usado.
+15426 recurso usado.
+Thread 15422 - liberando recursos
+Thread 15422 - iteración: 1
+15422 semáforo abierto.
+Thread 15426 - liberando recursos
+Thread 15422 - consumiendo recursos
+Thread 15426 - iteración: 1
+15426 semáforo abierto.
+Thread 15426 - consumiendo recursos
+15418 recurso usado.
+Thread 15418 - liberando recursos
+Thread 15425 - consumiendo recursos
+Thread 15418 - iteración: 3
+15418 semáforo abierto.
+15414 recurso usado.
+Thread 15414 - liberando recursos
+Thread 15414 - iteración: 2
+15414 semáforo abierto.
+Thread 15414 - consumiendo recursos
+15424 recurso usado.
+Thread 15424 - liberando recursos
+Thread 15424 - iteración: 1
+15424 semáforo abierto.
+Thread 15424 - consumiendo recursos
+15420 recurso usado.
+Thread 15420 - liberando recursos
+Thread 15420 - iteración: 2
+15420 semáforo abierto.
+Thread 15420 - consumiendo recursos
+15431 recurso usado.
+Thread 15429 - consumiendo recursos
+Thread 15431 - liberando recursos
+Thread 15431 - iteración: 1
+15431 semáforo abierto.
+15416 recurso usado.
+Thread 15416 - liberando recursos
+Thread 15416 - iteración: 2
+15416 semáforo abierto.
+Thread 15416 - consumiendo recursos
+15429 recurso usado.
+Thread 15429 - liberando recursos
+Thread 15429 - iteración: 1
+15429 semáforo abierto.
+Thread 15429 - consumiendo recursos
+15414 recurso usado.
+Thread 15414 - liberando recursos
+Thread 15414 - iteración: 3
+15414 semáforo abierto.
+Thread 15414 - consumiendo recursos
+15426 recurso usado.
+Thread 15426 - liberando recursos
+Thread 15426 - iteración: 2
+15426 semáforo abierto.
+Thread 15426 - consumiendo recursos
+15424 recurso usado.
+Thread 15424 - liberando recursos
+Thread 15424 - iteración: 2
+15424 semáforo abierto.
+Thread 15424 - consumiendo recursos
+15422 recurso usado.
+Thread 15421 - consumiendo recursos
+Thread 15422 - liberando recursos
+Thread 15422 - iteración: 2
+15422 semáforo abierto.
+15430 recurso usado.
+Thread 15433 - consumiendo recursos
+Thread 15430 - liberando recursos
+Thread 15430 - iteración: 2
+15430 semáforo abierto.
+15425 recurso usado.
+Thread 15425 - liberando recursos
+Thread 15425 - iteración: 1
+15425 semáforo abierto.
+Thread 15425 - consumiendo recursos
+15415 recurso usado.
+Thread 15415 - liberando recursos
+Thread 15415 - iteración: 2
+15415 semáforo abierto.
+Thread 15415 - consumiendo recursos
+15429 recurso usado.
+Thread 15429 - liberando recursos
+Thread 15429 - iteración: 2
+15429 semáforo abierto.
+Thread 15429 - consumiendo recursos
+15416 recurso usado.
+Thread 15416 - liberando recursos
+Thread 15416 - iteración: 3
+15416 semáforo abierto.
+Thread 15416 - consumiendo recursos
+15420 recurso usado.
+Thread 15420 - liberando recursos
+Thread 15420 - iteración: 3
+15420 semáforo abierto.
+Thread 15420 - consumiendo recursos
+15426 recurso usado.
+15421 recurso usado.
+Thread 15421 - liberando recursos
+Thread 15421 - iteración: 2
+15421 semáforo abierto.
+Thread 15421 - consumiendo recursos
+Thread 15426 - liberando recursos
+Thread 15426 - iteración: 3
+15426 semáforo abierto.
+Thread 15426 - consumiendo recursos
+15424 recurso usado.
+Thread 15428 - consumiendo recursos
+Thread 15424 - liberando recursos
+Thread 15424 - iteración: 3
+15424 semáforo abierto.
+15429 recurso usado.
+Thread 15429 - liberando recursos
+Thread 15429 - iteración: 3
+15429 semáforo abierto.
+Thread 15429 - consumiendo recursos
+15428 recurso usado.
+Thread 15417 - consumiendo recursos
+Thread 15428 - liberando recursos
+Thread 15428 - iteración: 2
+15428 semáforo abierto.
+15417 recurso usado.
+Thread 15417 - liberando recursos
+Thread 15417 - iteración: 2
+15417 semáforo abierto.
+Thread 15417 - consumiendo recursos
+15414 recurso usado.
+15429 recurso usado.
+15420 recurso usado.
+Thread 15429 - liberando recursos
+Thread 15420 - liberando recursos
+15421 recurso usado.
+Thread 15421 - liberando recursos
+Thread 15421 - iteración: 3
+15421 semáforo abierto.
+Thread 15421 - consumiendo recursos
+Thread 15419 - consumiendo recursos
+Thread 15423 - consumiendo recursos
+15433 recurso usado.
+Thread 15418 - consumiendo recursos
+Thread 15422 - consumiendo recursos
+Thread 15433 - liberando recursos
+Thread 15433 - iteración: 1
+15433 semáforo abierto.
+Thread 15414 - liberando recursos
+15426 recurso usado.
+Thread 15431 - consumiendo recursos
+Thread 15426 - liberando recursos
+15415 recurso usado.
+15416 recurso usado.
+15431 recurso usado.
+Thread 15415 - liberando recursos
+Thread 15415 - iteración: 3
+15415 semáforo abierto.
+Thread 15415 - consumiendo recursos
+Thread 15416 - liberando recursos
+Thread 15427 - consumiendo recursos
+Thread 15428 - consumiendo recursos
+Thread 15431 - liberando recursos
+Thread 15431 - iteración: 2
+15431 semáforo abierto.
+15418 recurso usado.
+Thread 15418 - liberando recursos
+15425 recurso usado.
+Thread 15425 - liberando recursos
+Thread 15425 - iteración: 2
+15425 semáforo abierto.
+Thread 15425 - consumiendo recursos
+Thread 15432 - consumiendo recursos
+15422 recurso usado.
+Thread 15422 - liberando recursos
+Thread 15422 - iteración: 3
+15422 semáforo abierto.
+Thread 15422 - consumiendo recursos
+15417 recurso usado.
+Thread 15417 - liberando recursos
+Thread 15417 - iteración: 3
+15417 semáforo abierto.
+Thread 15417 - consumiendo recursos
+15432 recurso usado.
+Thread 15432 - liberando recursos
+Thread 15432 - iteración: 1
+15432 semáforo abierto.
+Thread 15432 - consumiendo recursos
+15419 recurso usado.
+Thread 15419 - liberando recursos
+Thread 15419 - iteración: 2
+15419 semáforo abierto.
+15421 recurso usado.
+Thread 15421 - liberando recursos
+Thread 15424 - consumiendo recursos
+Thread 15430 - consumiendo recursos
+15423 recurso usado.
+Thread 15423 - liberando recursos
+Thread 15423 - iteración: 2
+15423 semáforo abierto.
+Thread 15423 - consumiendo recursos
+15425 recurso usado.
+Thread 15425 - liberando recursos
+Thread 15425 - iteración: 3
+15425 semáforo abierto.
+Thread 15425 - consumiendo recursos
+15427 recurso usado.
+15423 recurso usado.
+Thread 15427 - liberando recursos
+Thread 15427 - iteración: 1
+15427 semáforo abierto.
+Thread 15427 - consumiendo recursos
+15422 recurso usado.
+15415 recurso usado.
+Thread 15422 - liberando recursos
+Thread 15415 - liberando recursos
+15428 recurso usado.
+Thread 15419 - consumiendo recursos
+15417 recurso usado.
+Thread 15417 - liberando recursos
+15427 recurso usado.
+Thread 15427 - liberando recursos
+Thread 15427 - iteración: 2
+15427 semáforo abierto.
+Thread 15427 - consumiendo recursos
+Thread 15431 - consumiendo recursos
+Thread 15428 - liberando recursos
+Thread 15428 - iteración: 3
+15428 semáforo abierto.
+Thread 15428 - consumiendo recursos
+Thread 15433 - consumiendo recursos
+Thread 15423 - liberando recursos
+Thread 15423 - iteración: 3
+15423 semáforo abierto.
+Thread 15423 - consumiendo recursos
+15430 recurso usado.
+Thread 15430 - liberando recursos
+Thread 15430 - iteración: 3
+15430 semáforo abierto.
+Thread 15430 - consumiendo recursos
+15419 recurso usado.
+Thread 15419 - liberando recursos
+Thread 15419 - iteración: 3
+15419 semáforo abierto.
+Thread 15419 - consumiendo recursos
+15431 recurso usado.
+Thread 15431 - liberando recursos
+Thread 15431 - iteración: 3
+15431 semáforo abierto.
+Thread 15431 - consumiendo recursos
+15425 recurso usado.
+Thread 15425 - liberando recursos
+15430 recurso usado.
+Thread 15430 - liberando recursos
+15427 recurso usado.
+Thread 15427 - liberando recursos
+Thread 15427 - iteración: 3
+15427 semáforo abierto.
+Thread 15427 - consumiendo recursos
+15432 recurso usado.
+Thread 15432 - liberando recursos
+Thread 15432 - iteración: 2
+15432 semáforo abierto.
+Thread 15432 - consumiendo recursos
+15431 recurso usado.
+Thread 15431 - liberando recursos
+15428 recurso usado.
+Thread 15428 - liberando recursos
+15424 recurso usado.
+Thread 15424 - liberando recursos
+15419 recurso usado.
+Thread 15419 - liberando recursos
+15433 recurso usado.
+Thread 15433 - liberando recursos
+Thread 15433 - iteración: 2
+15433 semáforo abierto.
+Thread 15433 - consumiendo recursos
+15432 recurso usado.
+Thread 15432 - liberando recursos
+Thread 15432 - iteración: 3
+15432 semáforo abierto.
+Thread 15432 - consumiendo recursos
+15423 recurso usado.
+Thread 15423 - liberando recursos
+15427 recurso usado.
+Thread 15427 - liberando recursos
+15432 recurso usado.
+Thread 15432 - liberando recursos
+15433 recurso usado.
+Thread 15433 - liberando recursos
+Thread 15433 - iteración: 3
+15433 semáforo abierto.
+Thread 15433 - consumiendo recursos
+15433 recurso usado.
+Thread 15433 - liberando recursos
